@@ -1,2 +1,2 @@
 # CompNeuro
-Beginner CompNeuro master course
+Assignments from the CompNeuro master course from Rune Berg at the University of Copenhagen.
